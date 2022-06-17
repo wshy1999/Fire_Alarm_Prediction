@@ -14,6 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
     # 自己添加的
-    print_hi("Wang Siheng")
+    print('Wang Siheng')
+    print('Hello Git')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
